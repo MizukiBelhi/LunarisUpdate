@@ -1,0 +1,3 @@
+0.1.0
+https://github.com/MizukiBelhi/LunarisUpdate/raw/refs/heads/main/Lunaris.Boot.dll
+https://github.com/MizukiBelhi/LunarisUpdate/raw/refs/heads/main/Lunaris.dll
