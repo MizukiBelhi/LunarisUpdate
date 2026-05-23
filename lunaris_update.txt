@@ -1,3 +1,3 @@
 0.1.0
-https://raw.githubusercontent.com/MizukiBelhi/LunarisUpdate/4963c7b6976189734b63d6a398056dfcc3fddbf0/Lunaris.Boot.dll
 https://raw.githubusercontent.com/MizukiBelhi/LunarisUpdate/4963c7b6976189734b63d6a398056dfcc3fddbf0/Lunaris.dll
+https://raw.githubusercontent.com/MizukiBelhi/LunarisUpdate/4963c7b6976189734b63d6a398056dfcc3fddbf0/Lunaris.Boot.dll
